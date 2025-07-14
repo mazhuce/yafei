@@ -1,0 +1,9 @@
+{
+  "theme": "moonstone",
+  "interfaceFontFamily": "Times New Roman",
+  "accentColor": "#000000",
+  "baseFontSize": 20,
+  "baseFontSizeAction": true,
+  "textFontFamily": "Times New Roman,宋体",
+  "nativeMenus": false
+}
